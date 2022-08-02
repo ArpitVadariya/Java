@@ -1,0 +1,5 @@
+Input File Ma Lakhvaanu hoy
+E 
+Vastu Output File Automatic Lakhaay Jaay.
+
+It is Byte Stream Temp File.
